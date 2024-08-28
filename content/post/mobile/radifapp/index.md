@@ -26,4 +26,6 @@ It allows searching in:
 
 [Application link](https://play.google.com/store/apps/details?id=com.tahadz.radif_dictionary)
 
+Available as website  [Link](http://radif.sf.net)
+
 A game based on Radif is available for fun and learning on [Game link](https://play.google.com/store/apps/details?id=com.tahadz.radifiGame)

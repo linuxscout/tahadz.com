@@ -26,5 +26,7 @@ tags:
 
 [رابط التطبيق](https://play.google.com/store/apps/details?id=com.tahadz.radif_dictionary)
 
+يتوفر البرنامج في شكل موقع [رابط الموقع](http://radif.sf.net)
+
 تتوفر لعبة مبنية على الرديف للتسلية والتعلم على [رابط اللعبة](https://play.google.com/store/apps/details?id=com.tahadz.radifiGame)
 
