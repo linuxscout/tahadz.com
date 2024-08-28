@@ -6,6 +6,8 @@ date: 2024-08-28 00:00:00+0000
 image: qutrub.jpeg
 categories:
   - Software
+  - Mobile
+  - Library
 languages:
   - Arabic
 tags:
@@ -23,3 +25,5 @@ For developers, it is used as a software library from the website or on Python l
 Qutrub conjugates Arabic verbs easily and conveniently, and helps the user in learning, and correcting his information.
 
 [Mobile Application](https://play.google.com/store/apps/details?id=com.tahadz.qutrubapp)
+
+[Library](https://pypi.org/project/libqutrub/)

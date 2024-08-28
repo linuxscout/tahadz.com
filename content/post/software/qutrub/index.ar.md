@@ -7,6 +7,7 @@ image: qutrub.jpeg
 categories:
   - Software
   - Mobile
+  - Library
 languages:
   - Arabic
 tags:
@@ -27,3 +28,4 @@ tags:
 
 [تطبيق قطرب](https://play.google.com/store/apps/details?id=com.tahadz.qutrubapp)
 
+[مكتبة برمجية](https://pypi.org/project/libqutrub/)
