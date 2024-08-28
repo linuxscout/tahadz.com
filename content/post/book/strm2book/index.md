@@ -1,5 +1,5 @@
 ------
-title: Machine Structure part 2 book
+title: Machine Structure part 2 book [Arabic/English]
 description: Machine Structure is a book of lessons and solved exercises, directed to first-year students of computer science.
 slug: strm2book-en
 date: 2024-08-28 00:00:00+0000
