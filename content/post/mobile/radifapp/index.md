@@ -1,3 +1,4 @@
+---
 title: Radif Dictionary App
 description: Radif Dictionary App to learn synonyms, antonyms and irregular plurals
 slug: radifapp
