@@ -1,0 +1,22 @@
+# Configure main menu and social menu
+social:
+  - identifier: blog
+    name: blog
+    url: https://tahadz.wordpress.com
+    params:
+      icon: brand-blog    
+  - identifier: github
+    name: GitHub
+    url: https://github.com/linuxscout
+    params:
+      icon: brand-github
+  - identifier: facebook
+    name: Facebook
+    url: https://www.facebook.com/DrTahaZerrouki
+    params:
+      icon: brand-facebook
+  - identifier: twitter
+    name: Twitter
+    url: https://x.com/linuxscout
+    params:
+      icon: brand-twitter

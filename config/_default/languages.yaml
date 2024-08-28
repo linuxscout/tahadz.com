@@ -1,0 +1,24 @@
+---
+en:
+  languageName: English
+  languagedirection: ltr
+  title: Small projects for great language
+  weight: 1
+  params:
+    description: |
+      Open source projects for Arabic language.
+    sidebar:
+      subtitle: |
+        Open source projects for Arabic language.
+
+ar:
+  languageName: Arabic
+  languagedirection: rtl
+  title: مشاريع صغيرة للغة عظيمة
+  weight: 2
+  params:
+    description: |
+        مبادرة لإنشاء مشاريع مفتوحة المصدر لمعالجة اللغة العربية آليا.
+    sidebar:
+      subtitle: |
+         مبادرة لإنشاء مشاريع مفتوحة المصدر لمعالجة اللغة العربية آليا.
