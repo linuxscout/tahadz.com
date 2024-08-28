@@ -1,5 +1,5 @@
 ---
-title: PyArabic
+title: PyArabic مكتبة بيثون للعربية 
 description: مكتبة برمجية للغة العربية بلغة بيثون،
 slug: PyArabic
 date: 2024-08-27 00:00:00+0000
