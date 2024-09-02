@@ -1,6 +1,6 @@
 ------
 title: Implementation methods and technology book
-description:Implementation methods and technology, a practical workbook
+description: Implementation methods and technology, a practical workbook
 slug: mtibook
 date: 2024-08-28 00:00:00+0000
 image: mtibook.jpg

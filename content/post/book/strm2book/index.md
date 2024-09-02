@@ -6,20 +6,13 @@ date: 2024-08-28 00:00:00+0000
 image: strm2book-en.jpg
 categories:
   - Book
-  languages:
-
+languages:
   - Arabic
-
   - English
-
-  tags:
-
+tags:
   - Computer Science
-
   - Structure Machine
-
   - University
-
   - Course
 ---
 

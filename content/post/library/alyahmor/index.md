@@ -1,5 +1,5 @@
 ---
-title: َAlyahmor: Arabic flexionnal morphology generator
+title: َAlyahmor, Arabic flexionnal morphology generator
 description: Arabic flexionnal morphology generator.
 slug: alyahmor
 date: 2024-08-27 00:00:00+0000

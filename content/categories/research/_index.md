@@ -1,5 +1,5 @@
 ---
-title:Research
+title: Research
 description: Research or paper
 image:
 
